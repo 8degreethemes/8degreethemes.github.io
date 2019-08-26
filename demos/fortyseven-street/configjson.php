@@ -24,7 +24,7 @@ $data = array(
 			'free' => array(
 				array(
 					'slug'      => 'easy-pricing-tables',
-					'init' 	=> 'easy-pricing-tables/easy-pricing-tables.php',
+					'init' 	=> 'easy-pricing-tables/pricing-table-plugin.php',
 					'name' 	=> 'Easy Pricing Tables',
 				)
 			),
