@@ -11,17 +11,14 @@ $data = array(
 		'demo_name' => 'default',
 		'xml_file'     		=> $git_url . 'default/content.xml',
 		'widgets_file'  	=> $git_url . 'default/widgets.wie',
-		'import_redux'		=> array(
-			'file_url'		=> $git_url .'default/themeoptions.json',
-			'option_name' 	=> 'apbasic_options',
-		),
+		'theme_settings'  	=> $git_url . 'default/customizer_options.dat',
 		'screen'			=> $git_url . 'default/default.png',
-		'preview_url'		=> 'https://demo.accesspressthemes.com/accesspress-basic-pro/',
+		'preview_url'		=> 'https://8degreethemes.com/demo/fortyseven-street/',
 		'is_shop'			=> true,
 		'home_title'  		=> 'Home',
 		'blog_title'  		=> 'Blogs',
 		'menus' 			=> array(
-			'primary' => 'Main Menu',
+			'primary' => 'Menu 1',
 		),
 		'required_plugins'  => array(
 			'free' => array(
@@ -29,11 +26,6 @@ $data = array(
 					'slug'      => 'easy-pricing-tables',
 					'init' 	=> 'easy-pricing-tables/easy-pricing-tables.php',
 					'name' 	=> 'Easy Pricing Tables',
-				),
-				array(
-					'slug'      => 'newsletter',
-					'init'  	=> 'newsletter/plugin.php',
-					'name'      => 'Newsletter',
 				)
 			),
 			'premium' => array()
