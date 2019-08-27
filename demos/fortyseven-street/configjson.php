@@ -26,6 +26,11 @@ $data = array(
 					'slug'      => 'easy-pricing-tables',
 					'init' 	=> 'easy-pricing-tables/pricing-table-plugin.php',
 					'name' 	=> 'Easy Pricing Tables',
+				),
+				array(
+					'slug'      => 'ultimate-form-builder-lite',
+					'init' 	=> 'ultimate-form-builder-lite/ultimate-form-builder-lite.php',
+					'name' 	=> 'Ultimate Form Builder Lite',
 				)
 			),
 			'premium' => array()
