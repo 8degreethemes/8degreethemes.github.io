@@ -35,7 +35,16 @@ $data = array(
 			),
 			'premium' => array()
 		)
-	)
+	),
+	'premium_demos' => array(
+
+		array(
+			'screen'			=> $git_url . '47street/upgrade.jpg',
+			'preview_url'		=> 'https://8degreethemes.com/demo/47street/',
+			'upgrade_url'		=> 'https://8degreethemes.com/wordpress-themes/47street/',
+			'demo_name'			=> '47 Street Pro',
+		),
+	),
 );
 	//return $data;
 echo (json_encode($data));
