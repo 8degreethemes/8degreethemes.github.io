@@ -25,17 +25,17 @@ $data = array(
 				array(
 					'slug' 		=> 'accesspress-social-counter',
 					'init' 	=> 'accesspress-social-counter/accesspress-social-counter.php',
-					'name' 	=> 'SC_Class'
+					'name' 	=> 'AccessPress Social Counter'
 				),
 				array(
 					'slug' 		=> 'contact-form-7',
 					'init' 	=> 'contact-form-7/wp-contact-form-7.php',
-					'name' 	=> 'WPCF7_Submission'
+					'name' 	=> 'Contact Form 7'
 				),
 				array(
 					'slug' 		=> 'accesspress-twitter-feed',
 					'init' 	=> 'accesspress-twitter-feed/accesspress-twitter-feed.php',
-					'name' 	=> 'APTF_Class'
+					'name' 	=> 'WP TFeed'
 				)
 			),
 			'premium' => array()
