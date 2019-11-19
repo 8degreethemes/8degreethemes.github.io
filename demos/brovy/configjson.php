@@ -8,7 +8,7 @@
 $git_url 		= 'https://raw.githubusercontent.com/8degreethemes/8degreethemes.github.io/master/demos/brovy/';
 $data = array(
 	'default' => array(
-		'demo_name' => 'default',
+		'demo_name' => 'Borvy Child Theme',
 		'xml_file'     		=> $git_url . 'default/content.xml',
 		'widgets_file'  	=> $git_url . 'default/widgets.wie',
 		'theme_settings'  	=> $git_url . 'default/customizer_options.dat',
