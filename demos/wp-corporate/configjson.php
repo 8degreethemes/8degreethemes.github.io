@@ -49,7 +49,7 @@ $data = array(
 	'premium_demos' => array(
 
 		array(
-			'screen'			=> $git_url . 'wp-corporate-pro/upgrade.jpg',
+			'screen'			=> $git_url . 'wp-corporate-pro/upgrade.png',
 			'preview_url'		=> 'https://8degreethemes.com/demo/wp-corporate-pro/',
 			'upgrade_url'		=> 'https://8degreethemes.com/wordpress-themes/wp-corporate-pro/',
 			'demo_name'			=> 'WP Corporate Pro',
