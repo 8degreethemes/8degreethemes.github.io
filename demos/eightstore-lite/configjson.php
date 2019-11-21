@@ -26,21 +26,6 @@ $data = array(
 					'slug' 		=> 'woocommerce',
 					'init' 	=> 'woocommerce/woocommerce.php',
 					'name' 	=> 'WooCommerce'
-				),
-				array(
-					'slug' 		=> 'ultimate-form-builder-lite',
-					'init' 	=> 'ultimate-form-builder-lite/ultimate-form-builder-lite.php',
-					'name' 	=> 'Ultimate Form Builder Lite'
-				),
-				array(
-					'slug' 		=> '8-degree-coming-soon-page',
-					'init' 	=> '8-degree-coming-soon-page/8-degree-coming-soon-page.php',
-					'name' 	=> 'Eight Degree Coming Soon Page'
-				),
-				array(
-					'slug' 		=> '8-degree-notification-bar',
-					'init' 	=> '8-degree-notification-bar/8degree-notification.php',
-					'name' 	=> '8Degree Notification Bar'
 				)
 			),
 			'premium' => array()
