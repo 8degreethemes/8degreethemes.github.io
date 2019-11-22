@@ -34,10 +34,10 @@ $data = array(
 	'premium_demos' => array(
 
 		array(
-			'screen'			=> $git_url . 'eightlaw-pro/upgrade.jpg',
+			'screen'			=> $git_url . 'eightlaw-pro/upgrade.png',
 			'preview_url'		=> 'https://8degreethemes.com/demo/eightlaw-pro/',
 			'upgrade_url'		=> 'https://8degreethemes.com/wordpress-themes/eightlaw-pro/',
-			'demo_name'			=> 'Eightstore Pro',
+			'demo_name'			=> 'EightLaw Pro',
 		),
 	),
 );
