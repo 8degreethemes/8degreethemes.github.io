@@ -52,7 +52,7 @@ $data = array(
 			'screen'			=> $git_url . 'wp-store-pro/upgrade.jpg',
 			'preview_url'		=> 'https://8degreethemes.com/demo/wp-store-pro/',
 			'upgrade_url'		=> 'https://8degreethemes.com/wordpress-themes/wp-store-pro/',
-			'demo_name'			=> 'WP Corporate Pro',
+			'demo_name'			=> 'WP Store Pro',
 		),
 	),
 );
