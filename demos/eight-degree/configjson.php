@@ -28,7 +28,7 @@ $data = array(
 	'premium_demos' => array(
 
 		array(
-			'screen'			=> $git_url . 'eight-degree-pro/upgrade.jpg',
+			'screen'			=> $git_url . 'eight-degree-pro/upgrade.png',
 			'preview_url'		=> 'https://8degreethemes.com/demo/eight-degree-pro/',
 			'upgrade_url'		=> 'https://8degreethemes.com/wordpress-themes/eight-degree-pro/',
 			'demo_name'			=> 'Eight Degree Pro',
