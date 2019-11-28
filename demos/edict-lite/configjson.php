@@ -35,7 +35,14 @@ $data = array(
 			'premium' => array()
 		)
 	),
-	'premium_demos' => array(),
+	'premium_demos' => array(
+		array(
+			'screen'			=> $git_url . 'edict/upgrade.jpeg',
+			'preview_url'		=> 'https://8degreethemes.com/demo/edict/',
+			'upgrade_url'		=> 'https://8degreethemes.com/wordpress-themes/edict/',
+			'demo_name'			=> 'Edict',
+		),
+	),
 );
 	//return $data;
 echo (json_encode($data));
