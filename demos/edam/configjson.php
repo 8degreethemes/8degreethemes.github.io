@@ -27,6 +27,16 @@ $data = array(
 		'required_plugins'  => array(
 			'free' => array(
 				array(
+					'slug'        => 'redux-framework',
+					'init'    =>'redux-framework/redux-framework.php',
+					'name'       => 'Redux Framework',
+				),
+				array(
+					'slug'      => 'elementor',
+					'init' 	=> 'elementor/elementor.php',
+					'name' 	=> 'Elementor',
+				),
+				array(
 					'slug'      => 'ultimate-form-builder-lite',
 					'init' 	=> 'ultimate-form-builder-lite/ultimate-form-builder-lite.php',
 					'name' 	=> 'Ultimate Form Builder Lite',
