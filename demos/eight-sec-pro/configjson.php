@@ -17,9 +17,6 @@ $data = array(
 		'is_shop'			=> true,
 		'home_title'  		=> 'Home',
 		'blog_title'  		=> '',
-		'menus' 			=> array(
-			'primary' => 'Menu 1',
-		),
 		'required_plugins'  => array(
 			'free' => array(
 				array(
@@ -53,9 +50,6 @@ $data = array(
 		'is_shop'			=> true,
 		'home_title'  		=> 'Home',
 		'blog_title'  		=> '',
-		'menus' 			=> array(
-			'primary' => 'Menu 1',
-		),
 		'required_plugins'  => array(
 			'free' => array(
 				array(
@@ -89,9 +83,6 @@ $data = array(
 		'is_shop'			=> true,
 		'home_title'  		=> 'Home',
 		'blog_title'  		=> '',
-		'menus' 			=> array(
-			'primary' => 'Menu 1',
-		),
 		'required_plugins'  => array(
 			'free' => array(
 				array(
@@ -125,9 +116,6 @@ $data = array(
 		'is_shop'			=> true,
 		'home_title'  		=> 'Home',
 		'blog_title'  		=> '',
-		'menus' 			=> array(
-			'primary' => 'Menu 1',
-		),
 		'required_plugins'  => array(
 			'free' => array(
 				array(
